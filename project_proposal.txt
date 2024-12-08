@@ -1,0 +1,30 @@
+Introduction
+The price of gold plays a crucial role in the global economy, acting as a benchmark for monetary stability and an investment safe haven.
+Its value is influenced by various factors such as currency fluctuations, inflation rates, geopolitical tensions, and market sentiment.
+Predicting gold prices is a challenging task due to the dynamic and complex nature of these influences.
+Machine learning (ML) offers powerful tools to analyze patterns and trends in historical data, 
+enabling more accurate forecasting compared to traditional methods.
+
+Problem Statement
+
+Gold price prediction is a vital tool for investors, policymakers, and financial analysts. 
+However, existing methods often fail to capture the intricate relationships among the various factors influencing gold prices. 
+Traditional statistical models may lack the flexibility to account for non-linear patterns and interdependencies. 
+This project aims to develop a machine learning-based approach to address these challenges and improve the accuracy of gold price forecasts.
+
+Goals
+
+To analyze historical data and identify key features influencing gold prices.
+To develop and implement machine learning models for gold price prediction.
+To compare the performance of various ML models (e.g., Linear Regression, Random Forest, LSTM) and select the most suitable one.
+To provide insights into the relationships between economic indicators and gold prices.
+To validate the model on unseen data to ensure generalization and robustness.
+
+Related Work
+
+Numerous studies have explored gold price prediction using machine learning and statistical methods:
+Time-Series Models: Traditional approaches like ARIMA and GARCH models have been used for forecasting gold prices but are limited in handling non-linear relationships.
+Machine Learning Models: Models like Support Vector Machines (SVM), Random Forests, and Gradient Boosting have shown improved performance by leveraging advanced feature extraction techniques.
+Deep Learning: Neural networks, particularly Long Short-Term Memory (LSTM) networks, have been effective in capturing temporal dependencies in sequential data.
+Hybrid Models: Combining machine learning techniques with econometric models has provided better insights and predictions.
+This project will build upon these approaches, utilizing advanced machine learning techniques and data engineering practices to achieve improved predictive accuracy.
